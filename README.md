@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently looking for work.
 
-- 🌱 I’m currently learning Software development, website development, etc... 
+- 🌱 I’m currently learning software development, website development, etc... 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on  projects to enhance my skills.
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
 
